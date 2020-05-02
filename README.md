@@ -26,7 +26,7 @@ https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=120968
 
 Link do wykonanej aplikacji:
 
-https://dkusarek.github.io/BAI_Projekt/?fbclid=IwAR0hNMVo-HGwpu-BTn9wQ0-LnF5FPDTSLH4FDbIjJmR_Xs0xngOejhAN6es
+https://dkusarek.github.io/BAI_Projekt
 
 Link do repozytorium projektu na GitHub:
 
