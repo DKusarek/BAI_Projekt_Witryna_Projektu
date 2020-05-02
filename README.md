@@ -23,22 +23,22 @@ Dane są prezentowane graficznie w postaci różnorodnych ikon, symboli oraz wyk
 
  * Użytkownik ma możliwość sprawdzenia prognozy pogody w lokalizacjach które go interesują. Jeśli nie wpisze nazwy miejscowości, automatycznie pobierana jest jego aktualna lokalizacja na podstawie adresu IP.
 <p align="center">
-  <img src="https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/location.PNG?raw=true alt="Location"/>
+  <img src="https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/location.PNG?raw=true" alt="Location"/>
 </p>
                                                                                                                      
  * Podstawowe informacje o stanie pogody. 
 <p align="center">
-  <img src="https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/current.PNG?raw=true alt="Current"/>
+  <img src="https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/current.PNG?raw=true" alt="Current"/>
 </p>
 
  * Szczegółowe informacje o stanie pogody.
 <p align="center">
-  <img src="https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/extend.PNG?raw=true alt="Extend"/>
+  <img src="https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/extend.PNG?raw=true" alt="Extend"/>
 </p>
                                                                                                                  
  * Wykres prezentujący zmianę temperatury w 3-godzinnych odstępach czasowych.
 <p align="center">
-  <img src="https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/chart.PNG?raw=true alt="Chart"/>
+  <img src="https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/chart.PNG?raw=true" alt="Chart"/>
 </p>
                                                                                                                
  * Prognoza pogody na najbliższe 5 dni.
