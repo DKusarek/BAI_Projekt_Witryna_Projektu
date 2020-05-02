@@ -18,8 +18,19 @@ Parametry pogody będą przedstawiane w dwóch wersjach:
 
 Dane będą prezentowane graficznie w postaci różnorodnych ikon, symboli oraz wykresów.
 
-## before run
-npm i 
+##Linki do składowych projektu:
 
-## run app 
-npm run serve
+Link do zgłoszenia projektu:
+https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=120968
+
+Link do wykonanej aplikacji:
+https://dkusarek.github.io/BAI_Projekt/?fbclid=IwAR0hNMVo-HGwpu-BTn9wQ0-LnF5FPDTSLH4FDbIjJmR_Xs0xngOejhAN6es
+
+Link do repozytorium projektu na GitHub:
+https://github.com/DKusarek/BAI_Projekt
+
+Link do witryny internetowej projektu na GitHub:
+https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu
+
+Link do zarządzania projektem informatycznym na GitHub:
+https://github.com/DKusarek/BAI_Projekt/projects/1
