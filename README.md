@@ -20,23 +20,23 @@ Dane będą prezentowane graficznie w postaci różnorodnych ikon, symboli oraz 
 
 ## Główne funkcjonalności aplikacji
 
- - Użytkownik ma możliwoś sprawdzenia prognozy pogody w lokalizacji która go interesuję. Jeśli nie wpisze nazwy miejscowości, automatycznie pobierana jest jego aktualna lokalizacja na podstawie adresu IP.
+ * Użytkownik ma możliwoś sprawdzenia prognozy pogody w lokalizacji która go interesuję. Jeśli nie wpisze nazwy miejscowości, automatycznie pobierana jest jego aktualna lokalizacja na podstawie adresu IP.
 
 ![Location](https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/location.PNG?raw=true "Location")
 
- - Podstawowe informacje o stanie pogody. 
+ * Podstawowe informacje o stanie pogody. 
 
 ![Current](https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/current.PNG?raw=true "Current")
 
- - Szczegółowe informacje o stanie pogody.
+ * Szczegółowe informacje o stanie pogody.
 
 ![Extend](https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/extend.PNG?raw=true "Extend")
 
- - Wykres prezentujący zmianę temperatury w 3-godzinnych odstępach czasowych.
+ * Wykres prezentujący zmianę temperatury w 3-godzinnych odstępach czasowych.
 
 ![Chart](https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/chart.PNG?raw=true "Chart")
 
- - Prognoza pogody na najbliższe 5 dni.
+ * Prognoza pogody na najbliższe 5 dni.
 
 ![Forecast](https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/forecast.PNG?raw=true "Forecast")
  
