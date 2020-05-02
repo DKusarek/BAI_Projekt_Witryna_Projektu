@@ -41,7 +41,9 @@ Dane są prezentowane graficznie w postaci różnorodnych ikon, symboli oraz wyk
 
 ![Forecast](https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/forecast.PNG?raw=true "Forecast")
  
-
+<p align="center">
+  <img src="https://www.w3schools.com/w3css/img_lights.jpg"/>
+</p>
 ## Linki do składowych projektu:
 
 [Link do zgłoszenia projektu](https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=120968)
