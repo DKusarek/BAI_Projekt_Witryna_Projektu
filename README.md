@@ -20,22 +20,12 @@ Dane będą prezentowane graficznie w postaci różnorodnych ikon, symboli oraz 
 
 ## Linki do składowych projektu:
 
-Link do zgłoszenia projektu:
+[Link do zgłoszenia projektu](https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=120968)
 
-https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=120968
+[Link do wykonanej aplikacji](https://dkusarek.github.io/BAI_Projekt)
 
-Link do wykonanej aplikacji:
+[Link do repozytorium projektu na GitHub](https://github.com/DKusarek/BAI_Projekt)
 
-https://dkusarek.github.io/BAI_Projekt
+[Link do witryny internetowej projektu na GitHub](https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu)
 
-Link do repozytorium projektu na GitHub:
-
-https://github.com/DKusarek/BAI_Projekt
-
-Link do witryny internetowej projektu na GitHub:
-
-https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu
-
-Link do zarządzania projektem informatycznym na GitHub:
-
-https://github.com/DKusarek/BAI_Projekt/projects/1
+[Link do zarządzania projektem informatycznym na GitHub](https://github.com/DKusarek/BAI_Projekt/projects/1)
