@@ -22,28 +22,30 @@ Dane są prezentowane graficznie w postaci różnorodnych ikon, symboli oraz wyk
 ## Screeny prezentujące zasadnicze funkcjonalności aplikacji
 
  * Użytkownik ma możliwość sprawdzenia prognozy pogody w lokalizacjach które go interesują. Jeśli nie wpisze nazwy miejscowości, automatycznie pobierana jest jego aktualna lokalizacja na podstawie adresu IP.
-
-![Location](https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/location.PNG?raw=true "Location")
-
+<p align="center">
+  <img src="https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/location.PNG?raw=true alt="Location"/>
+</p>
+                                                                                                                     
  * Podstawowe informacje o stanie pogody. 
-
-![Current](https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/current.PNG?raw=true "Current")
+<p align="center">
+  <img src="https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/current.PNG?raw=true alt="Current"/>
+</p>
 
  * Szczegółowe informacje o stanie pogody.
-
-![Extend](https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/extend.PNG?raw=true "Extend")
-
- * Wykres prezentujący zmianę temperatury w 3-godzinnych odstępach czasowych.
-
-![Chart](https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/chart.PNG?raw=true "Chart")
-
- * Prognoza pogody na najbliższe 5 dni.
-
-![Forecast](https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/forecast.PNG?raw=true "Forecast")
- 
 <p align="center">
-  <img src="https://www.w3schools.com/w3css/img_lights.jpg"/>
+  <img src="https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/extend.PNG?raw=true alt="Extend"/>
 </p>
+                                                                                                                 
+ * Wykres prezentujący zmianę temperatury w 3-godzinnych odstępach czasowych.
+<p align="center">
+  <img src="https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/chart.PNG?raw=true alt="Chart"/>
+</p>
+                                                                                                               
+ * Prognoza pogody na najbliższe 5 dni.
+<p align="center">
+  <img src="https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/forecast.PNG?raw=true" alt="Forecast"/>
+</p>
+
 ## Linki do składowych projektu:
 
 [Link do zgłoszenia projektu](https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=120968)
