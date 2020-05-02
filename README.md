@@ -1,7 +1,7 @@
 # Prognoza pogody
  Aplikacja do sprawdzania prognozy pogody – aktualnej oraz na kolejne pięć dni.
 
-Parametry pogody będą przedstawiane w dwóch wersjach:
+Parametry pogody są przedstawiane w dwóch wersjach:
 
 - Podstawowej:
   - Stan pogody ( w formie ikony np. deszcz, słonecznie)
@@ -15,12 +15,13 @@ Parametry pogody będą przedstawiane w dwóch wersjach:
   - Wilgotność powietrza
   - Zachmurzenie (%)
   - Poziom opadów
+  - Zmiana temperatury w 3-godzinnych odstępach czasowych
 
-Dane będą prezentowane graficznie w postaci różnorodnych ikon, symboli oraz wykresów.
+Dane są prezentowane graficznie w postaci różnorodnych ikon, symboli oraz wykresów.
 
-## Główne funkcjonalności aplikacji
+## Screeny prezentujące zasadnicze funkcjonalności aplikacji
 
- * Użytkownik ma możliwoś sprawdzenia prognozy pogody w lokalizacji która go interesuję. Jeśli nie wpisze nazwy miejscowości, automatycznie pobierana jest jego aktualna lokalizacja na podstawie adresu IP.
+ * Użytkownik ma możliwość sprawdzenia prognozy pogody w lokalizacjach które go interesują. Jeśli nie wpisze nazwy miejscowości, automatycznie pobierana jest jego aktualna lokalizacja na podstawie adresu IP.
 
 ![Location](https://github.com/DKusarek/BAI_Projekt_Witryna_Projektu/blob/master/location.PNG?raw=true "Location")
 
