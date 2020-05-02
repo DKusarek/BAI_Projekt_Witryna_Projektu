@@ -54,6 +54,6 @@ Dane są prezentowane graficznie w postaci różnorodnych ikon, symboli oraz wyk
 
 [Link do repozytorium projektu na GitHub](https://github.com/DKusarek/BAI_Projekt)
 
-[Link do witryny internetowej projektu na GitHub](https://dkusarek.github.io/BAI_Projekt_Witryna_Projektu)
+[Link do witryny internetowej projektu na GitHub](https://dkusarek.github.io/My-Weather)
 
 [Link do zarządzania projektem informatycznym na GitHub](https://github.com/DKusarek/BAI_Projekt/projects/1)
